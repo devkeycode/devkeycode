@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devkeycode
+- 👋 Hi, I’m Lalit Rawat, a good listener,JS lover & aspiring developer.
 - 👀 I’m interested in to create the user friendly interfaces that establish a connection among others.
 - 🌱 I’m currently learning/exploring the web development.
 - 💞️ I’m looking to collaborate on web development.
